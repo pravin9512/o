@@ -1,0 +1,26 @@
+ 
+ body{
+    background-size: cover;
+    background-position: center;
+ }
+
+ #fru{
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(23, 72, 116);
+ }
+
+
+#status
+{
+width: 100px;
+padding: 5px;
+font-size: 16px;
+border-radius: 10px;
+}
+
+canvas{
+    box-shadow: 10px 10px 10px rgb(136, 79, 35);
+    border-radius: 10px;
+   }
+
